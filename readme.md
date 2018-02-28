@@ -126,7 +126,7 @@ df.plot.box()
 
 
 
-![](https://github.com/erickzy/ND002_DA_PROJECT1_Psychology phenomenon/raw/master/img/output_8_1.png)
+![](https://github.com/erickzy/ND002_DA_PROJECT1_Psychology-phenomenon/raw/master/img/output_8_1.png)
 
 
 
