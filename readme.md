@@ -174,10 +174,10 @@ stats.ttest_rel(d_con, d_inc, axis=0)
 自由度 df = 23
 故查表得到 t临界值=1.714
 
-![](https://github.com/erickzy/ND002_DA_PROJECT1_Psychology-phenomenon/raw/master/img/ttable.png)
+![](https://github.com/erickzy/ND002_DA_PROJECT1_Psychology-phenomenon/raw/master/img/ttable.PNG)
 
 计算可得
-p-value = 4.1030005857111781e-08 该值远远小于α=0.05，且statistic=-8.020706944109957 其绝对值大于t临界值1.714，说明μd > μ0，可以拒绝H0，与实际情况一致。由于实际情况是H0错误，且研究结果是拒绝H0，故根据统计结论拒绝零假设。 与原故备选假设成立。
+p-value = 4.1030005857111781e-08 该值远远小于α=0.05，且statistic=-8.020706944109957 其绝对值大于t临界值1.714，说明μd > μ0，可以拒绝H0，与实际情况一致。由于实际情况是H0错误，且研究结果是拒绝H0，故根据统计结论拒绝零假设。
 ### 结论：字义与颜色不一致会导致读出墨色的时间明显变长。
 
 
